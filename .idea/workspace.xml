@@ -949,7 +949,7 @@
       <workItem from="1492395826860" duration="4433000" />
       <workItem from="1492484509561" duration="554000" />
       <workItem from="1492509942545" duration="6514000" />
-      <workItem from="1492571154624" duration="6808000" />
+      <workItem from="1492571154624" duration="6985000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1011,7 +1011,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44719000" />
+    <option name="totallyTimeSpent" value="44896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
