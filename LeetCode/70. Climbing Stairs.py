@@ -19,4 +19,4 @@ class Solution(object):
 
 
 instance = Solution()
-print instance.climbStairs(15)
+print instance.climbStairs(35)
