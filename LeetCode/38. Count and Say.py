@@ -10,4 +10,5 @@ class Solution(object):
         :type n: int
         :rtype: str
         """
-        # 刷本子
+        # It seems not only me misunderstood the question.
+        # Please modify the description, since it's frustrating if you are solving a "different" question.
