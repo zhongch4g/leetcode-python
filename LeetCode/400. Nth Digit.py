@@ -10,3 +10,4 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        # how to raise a new solution
