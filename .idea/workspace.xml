@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/575. Distribute Candies.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/598. Range Addition II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/617. Merge Two Binary Trees.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/690. Employee Importance.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -80,21 +78,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="575. Distribute Candies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/575. Distribute Candies.py">
+      <file leaf-file-name="598. Range Addition II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/598. Range Addition II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="95">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="598. Range Addition II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/598. Range Addition II.py">
+      <file leaf-file-name="690. Employee Importance.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/690. Employee Importance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="267">
+              <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -130,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/169. Majority Element.py" />
         <option value="$PROJECT_DIR$/LeetCode/242. Valid Anagram.py" />
         <option value="$PROJECT_DIR$/LeetCode/504. Base 7.py" />
         <option value="$PROJECT_DIR$/LeetCode/535. Encode and Decode TinyURL.py" />
@@ -181,6 +178,7 @@
         <option value="$PROJECT_DIR$/LeetCode/617. Merge Two Binary Trees.py" />
         <option value="$PROJECT_DIR$/LeetCode/575. Distribute Candies.py" />
         <option value="$PROJECT_DIR$/LeetCode/598. Range Addition II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/690. Employee Importance.py" />
       </list>
     </option>
   </component>
@@ -190,7 +188,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="23" />
     <option name="width" value="1380" />
     <option name="height" value="788" />
@@ -262,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.598. Range Addition II">
+  <component name="RunManager" selected="Python.690. Employee Importance">
     <configuration name="338. Counting Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,24 +297,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="58. Length of Last Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/58. Length of Last Word.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="598. Range Addition II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,6 +329,24 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/617. Merge Two Binary Trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="690. Employee Importance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/690. Employee Importance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1001,19 +999,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.58. Length of Last Word" />
-      <item index="1" class="java.lang.String" itemvalue="Python.338. Counting Bits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.617. Merge Two Binary Trees" />
-      <item index="3" class="java.lang.String" itemvalue="Python.575. Distribute Candies" />
-      <item index="4" class="java.lang.String" itemvalue="Python.598. Range Addition II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.338. Counting Bits" />
+      <item index="1" class="java.lang.String" itemvalue="Python.617. Merge Two Binary Trees" />
+      <item index="2" class="java.lang.String" itemvalue="Python.575. Distribute Candies" />
+      <item index="3" class="java.lang.String" itemvalue="Python.598. Range Addition II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.690. Employee Importance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.598. Range Addition II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.575. Distribute Candies" />
-        <item index="2" class="java.lang.String" itemvalue="Python.617. Merge Two Binary Trees" />
-        <item index="3" class="java.lang.String" itemvalue="Python.338. Counting Bits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.58. Length of Last Word" />
+        <item index="0" class="java.lang.String" itemvalue="Python.690. Employee Importance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.598. Range Addition II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.575. Distribute Candies" />
+        <item index="3" class="java.lang.String" itemvalue="Python.617. Merge Two Binary Trees" />
+        <item index="4" class="java.lang.String" itemvalue="Python.338. Counting Bits" />
       </list>
     </recent_temporary>
   </component>
@@ -1160,10 +1158,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19954476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35179153" sideWeight="0.5682853" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
@@ -1252,13 +1250,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/169. Majority Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/383. Ransom Note.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -1611,8 +1602,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/598. Range Addition II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="95">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/690. Employee Importance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding />
         </state>
       </provider>
