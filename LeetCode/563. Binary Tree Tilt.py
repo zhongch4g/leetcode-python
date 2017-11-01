@@ -19,3 +19,6 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+
+
+        self.findTilt(root.left)
