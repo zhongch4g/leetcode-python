@@ -6,6 +6,7 @@
 """
 import itertools
 import collections
+from itertools import combinations
 class Solution(object):
     def numberOfBoomerangs(self, points):
         """
@@ -17,10 +18,15 @@ class Solution(object):
             for a,b in zip(vector1,vector2):
                 d+=(a-b)**2;
             return d
+
+        # 得到长度为3的不重复子序列
         listOfBoomerangs = list(itertools.combinations(points, 3))
-        # print listOfBoomerangs
         countBoomerangs = 0
         for pair1 in listOfBoomerangs:
+            # pair1 是否能构成等腰三角形
+            if len(set([distance(pair1[0], pair1[1]), distance(pair1[0], pair1[2]), distance(pair1[1], pair1[2])])) != 3:
+                continue
+
             newlist = list(itertools.permutations(pair1, 3))
             # print newlist, " ---- "
             for pair in newlist:
@@ -33,22 +39,23 @@ class Solution(object):
         return countBoomerangs
 
     # clear version
+    # "For every point, there are k points with distance d, so there are k*(k-1) pairwise with distance d."!!!
     def numberOfBoomrangs1(self, points):
-        nums = 0
-        for x1, y1 in points:
-            distance = collections.defaultdict(int)
-            for x2, y2 in points:
-                dx = abs(x2 - x1)
-                dy = abs(y2 - y1)
-                d = dx * dx + dy * dy
-                distance[d] += 1
+        res = 0
+        for p in points:
+            cmap = {}
+            for q in points:
+                f = p[0] - q[0]
+                s = p[1] - q[1]
+                cmap[f * f + s * s] = 1 + cmap.get(f * f + s * s, 0)
+            print(cmap)
+            for k in cmap:
+                res += cmap[k] * (cmap[k] - 1)
+        return res
 
-        nums += sum(n * (n-1) for n in distance.values())
-        return nums
-
-# print list(combinations([[0,0], [1,0], [2,0], [3, 0]], 3))
+# print(list(combinations([[0,0], [1,0], [2,0], [3, 0]], 3)))
 instance = Solution()
-print instance.numberOfBoomerangs([[0,0],[1,0],[-1,0],[0,1],[0,-1]]) # expect 20
+print (instance.numberOfBoomrangs1([[0,0],[2,0],[-2,0],[0,2],[0,-2]])) # expect 20
 
 # l = [1, 2, 3]
 # print list(combinations_with_replacement(l, 3))
