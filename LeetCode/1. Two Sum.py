@@ -45,4 +45,4 @@ class Solution(object):
         return []
 
 instance = Solution()
-print instance.twoSum2([3, 2, 4], 6)
+print (instance.twoSum2([3, 2, 4], 6))
