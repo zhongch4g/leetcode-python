@@ -12,22 +12,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        # list_sorted = sorted(nums)
-        # temp = 0
-        # for i in range(len(list_sorted)):
-        #     if list_sorted[i] > target:
-        #         temp = i
-        # if temp == 0:
-        #     temp = len(list_sorted)
-        # list1 = list(combinations(list_sorted[:temp], 2))
-        # # print list1
-        # for tuples in list1:
-        #     if sum(tuples) == target:
-        #         return [nums.index(tuples[0]), nums.index(tuples[1])]
         for i in range(len(nums)):
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
+
 
     def twoSum2(self, nums, target):
         """
@@ -43,6 +32,17 @@ class Solution(object):
             lookup[num] = i
             # print lookup
         return []
+
+
+    # modify 07/08/2019
+    def twoSum3(self, nums, target):
+        res = dict()
+        for idx, num in enumerate(nums):
+            if (target - num) in res:
+                return [res[target-num], idx]
+            res[num] = idx
+
+
 
 instance = Solution()
 print (instance.twoSum2([3, 2, 4], 6))
