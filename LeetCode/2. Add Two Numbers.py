@@ -61,7 +61,7 @@ class Solution:
         d = sentinel
         cur_sum = 0
         while c1 is not None or c2 is not None:
-            cur_sum /= 10
+            cur_sum = cur_sum // 10
             if c1 is not None:
                 cur_sum += c1.val
                 c1 = c1.next
