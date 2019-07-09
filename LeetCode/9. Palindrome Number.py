@@ -46,6 +46,4 @@ class Solution(object):
 # 2 0010
 # 1 0001
 instance = Solution()
-print instance.isPalindrome(11)
-
-# 10
+print (instance.isPalindrome(11))
