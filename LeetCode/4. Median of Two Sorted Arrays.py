@@ -64,7 +64,7 @@ class Solution:
 
         if b is None or (a is not None and a < b):
             return self.findKth2(A, i + k // 2, B, j, k - k // 2)
-        return self.findKth2(A, i, B + k // 2, j, k - k // 2)
+        return self.findKth2(A, i, B, j + k // 2, k - k // 2)
 
 
 
