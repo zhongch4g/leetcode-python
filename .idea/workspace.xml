@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -54,6 +54,7 @@
     <SUITE FILE_PATH="coverage/LeetCode-in-python$231__Power_of_Two.coverage" NAME="231. Power of Two Coverage Results" MODIFIED="1493642012150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$122__Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122. Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1492400641072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$459__Repeated_Substring_Pattern.coverage" NAME="459. Repeated Substring Pattern Coverage Results" MODIFIED="1494392415908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1562876359646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$350__Intersection_of_Two_Arrays_II.coverage" NAME="350. Intersection of Two Arrays II Coverage Results" MODIFIED="1493096195639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$367__Valid_Perfect_Square.coverage" NAME="367. Valid Perfect Square Coverage Results" MODIFIED="1494082408476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$58__Length_of_Last_Word.coverage" NAME="58. Length of Last Word Coverage Results" MODIFIED="1495350758537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -94,11 +95,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="19. Remove Nth Node From End of List.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="19. Remove Nth Node From End of List.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="399">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -134,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/21. Merge Two Sorted Lists.py" />
         <option value="$PROJECT_DIR$/LeetCode/27. Remove Element.py" />
         <option value="$PROJECT_DIR$/LeetCode/342. Power of Four.py" />
         <option value="$PROJECT_DIR$/LeetCode/367. Valid Perfect Square.py" />
@@ -185,6 +195,7 @@
         <option value="$PROJECT_DIR$/LeetCode/17. Letter Combinations of a Phone Number.py" />
         <option value="$PROJECT_DIR$/LeetCode/18. 4Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py" />
+        <option value="$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py" />
       </list>
     </option>
   </component>
@@ -269,25 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19. Remove Nth Node From End of List">
-    <configuration name="15. 3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/15. 3Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.20. Valid Parentheses">
     <configuration name="16. 3Sum Closest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,6 +349,24 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="20. Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1001,19 +1012,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.15. 3Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.16. 3Sum Closest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.18. 4Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
+      <item index="0" class="java.lang.String" itemvalue="Python.16. 3Sum Closest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.18. 4Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
-        <item index="1" class="java.lang.String" itemvalue="Python.18. 4Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.16. 3Sum Closest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.15. 3Sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
+        <item index="2" class="java.lang.String" itemvalue="Python.18. 4Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.16. 3Sum Closest" />
       </list>
     </recent_temporary>
   </component>
@@ -1088,7 +1099,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="38381000" />
+      <workItem from="1562601050122" duration="41187000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1150,7 +1161,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191230000" />
+    <option name="totallyTimeSpent" value="194036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1286,6 +1297,11 @@
           <line>16</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1297,7 +1313,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1444,8 +1460,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding />
         </state>
       </provider>
