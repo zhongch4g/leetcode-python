@@ -25,6 +25,6 @@ class Solution(object):
         return total
 
 instance = Solution()
-print instance.romanToInt("DCXXI")
+print (instance.romanToInt("DCXXI"))
 s = "DCXXI"
-print range(len(s) - 1, -1, -1)
+print (list(range(len(s) - 1, -1, -1)))
