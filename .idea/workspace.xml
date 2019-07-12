@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/22. Generate Parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/23. Merge k Sorted Lists.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -19,6 +19,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_python$10__Regular_Expression_Matching.coverage" NAME="10. Regular Expression Matching Coverage Results" MODIFIED="1562709811534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$35__Search_Insert_Position.coverage" NAME="35. Search Insert Position Coverage Results" MODIFIED="1493649024353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$23__Merge_k_Sorted_Lists.coverage" NAME="23. Merge k Sorted Lists Coverage Results" MODIFIED="1562948260734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$2__Add_Two_Numbers.coverage" NAME="2. Add Two Numbers Coverage Results" MODIFIED="1562612769398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$504__Base_7.coverage" NAME="504. Base 7 Coverage Results" MODIFIED="1492669676944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$9__Palindrome_Number.coverage" NAME="9. Palindrome Number Coverage Results" MODIFIED="1494305141513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -126,11 +127,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="22. Generate Parentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="22. Generate Parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/22. Generate Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="23. Merge k Sorted Lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/23. Merge k Sorted Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -166,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/342. Power of Four.py" />
         <option value="$PROJECT_DIR$/LeetCode/367. Valid Perfect Square.py" />
         <option value="$PROJECT_DIR$/LeetCode/345. Reverse Vowels of a String.py" />
         <option value="$PROJECT_DIR$/LeetCode/66. Plus One.py" />
@@ -217,6 +227,7 @@
         <option value="$PROJECT_DIR$/LeetCode/19. Remove Nth Node From End of List.py" />
         <option value="$PROJECT_DIR$/LeetCode/20. Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/LeetCode/22. Generate Parentheses.py" />
+        <option value="$PROJECT_DIR$/LeetCode/23. Merge k Sorted Lists.py" />
       </list>
     </option>
   </component>
@@ -301,25 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.22. Generate Parentheses">
-    <configuration name="17. Letter Combinations of a Phone Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/17. Letter Combinations of a Phone Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.23. Merge k Sorted Lists">
     <configuration name="18. 4Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,6 +381,24 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/22. Generate Parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="23. Merge k Sorted Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/23. Merge k Sorted Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1033,19 +1044,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.18. 4Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
-      <item index="3" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Python.22. Generate Parentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Python.18. 4Sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
+      <item index="2" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.22. Generate Parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="Python.23. Merge k Sorted Lists" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.22. Generate Parentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
-        <item index="3" class="java.lang.String" itemvalue="Python.18. 4Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.23. Merge k Sorted Lists" />
+        <item index="1" class="java.lang.String" itemvalue="Python.22. Generate Parentheses" />
+        <item index="2" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.19. Remove Nth Node From End of List" />
+        <item index="4" class="java.lang.String" itemvalue="Python.18. 4Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -1120,7 +1131,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="44387000" />
+      <workItem from="1562601050122" duration="46895000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1182,7 +1193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197236000" />
+    <option name="totallyTimeSpent" value="199744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1510,8 +1521,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/22. Generate Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/23. Merge k Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding />
         </state>
       </provider>
