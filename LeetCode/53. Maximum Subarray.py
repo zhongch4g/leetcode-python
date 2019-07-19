@@ -40,7 +40,7 @@ class Solution(object):
 
             if left_subarray >= right_subarray and left_subarray >= cross_subarray:
                 return left_subarray
-            elif right_subarray >= left_subarray and right_subarray >= cross_subarray:
+            elif right_subarray >= left_subarray and right_subarray > cross_subarray:
                 return right_subarray
             else:
                 return cross_subarray
