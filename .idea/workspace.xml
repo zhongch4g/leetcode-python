@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/121. Best Time to Buy and Sell Stock.py" afterPath="$PROJECT_DIR$/LeetCode/121. Best Time to Buy and Sell Stock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/122. Best Time to Buy and Sell Stock II.py" afterPath="$PROJECT_DIR$/LeetCode/122. Best Time to Buy and Sell Stock II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/136. Single Number.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,11 +174,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="122. Best Time to Buy and Sell Stock II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="122. Best Time to Buy and Sell Stock II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/122. Best Time to Buy and Sell Stock II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="437">
               <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="136. Single Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/136. Single Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -224,7 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/10. Regular Expression Matching.py" />
         <option value="$PROJECT_DIR$/LeetCode/9. Palindrome Number.py" />
         <option value="$PROJECT_DIR$/LeetCode/11. Container With Most Water.py" />
         <option value="$PROJECT_DIR$/LeetCode/12. Integer to Roman.py" />
@@ -275,6 +284,7 @@
         <option value="$PROJECT_DIR$/LeetCode/1124. Longest Well-Performing Interval.py" />
         <option value="$PROJECT_DIR$/LeetCode/121. Best Time to Buy and Sell Stock.py" />
         <option value="$PROJECT_DIR$/LeetCode/122. Best Time to Buy and Sell Stock II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/136. Single Number.py" />
       </list>
     </option>
   </component>
@@ -1178,7 +1188,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="121134000" />
+      <workItem from="1562601050122" duration="121461000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1240,7 +1250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273983000" />
+    <option name="totallyTimeSpent" value="274310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1262,9 +1272,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21816881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1466,14 +1476,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/12. Integer to Roman.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="78" column="15" lean-forward="true" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/14. Longest Common Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1870,8 +1872,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/122. Best Time to Buy and Sell Stock II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
+        <state relative-caret-position="437">
           <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/136. Single Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
