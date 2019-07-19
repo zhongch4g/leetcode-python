@@ -33,7 +33,6 @@ class Solution(object):
                 judge.append(True)
             else:
                 judge.append(False)
-        print judge
         for jud in range(len(judge)):
             if(judge[jud] is True):
                 max_profit = max_profit + (prices[jud + 1] - prices[jud])
