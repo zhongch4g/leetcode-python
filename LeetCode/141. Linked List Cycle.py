@@ -35,7 +35,7 @@ class Solution(object):
         :rtype: bool
         """
         # Approach #2 (Two Pointers)
-        if head is None or head.next not None:
+        if head is None or head.next is None:
             return False
         slow = head
         fast = head.next
