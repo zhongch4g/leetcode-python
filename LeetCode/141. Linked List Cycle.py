@@ -4,8 +4,6 @@
     Directed by user zhongch4g
     current system date 2017/5/8
 """
-# Definition for singly-linked list.
-from collections import Set
 
 
 class ListNode(object):
@@ -14,23 +12,30 @@ class ListNode(object):
         self.next = None
 
 class Solution(object):
-    def hasCycle(self, head):
+    def hasCycle1(self, head):
         """
         :type head: ListNode
         :rtype: bool
         """
         # Can you solve it without using extra space?
         # Approach #1 (Hash Table)
-        # nodeSeen = set()
-        # while head is not None:
-        #     if nodeSeen.__contains__(head):
-        #         return True
-        #     else:
-        #         nodeSeen.add(head)
-        #     head = head.next
-        # return False
+        nodeSeen = set()
+        while head is not None:
+            if head in nodeSeen:
+                return True
+            else:
+                nodeSeen.add(head)
+            head = head.next
+        return False
+
+
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
         # Approach #2 (Two Pointers)
-        if head is not None or head.next is not None:
+        if head is None or head.next not None:
             return False
         slow = head
         fast = head.next
