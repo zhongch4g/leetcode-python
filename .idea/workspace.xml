@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/30. Insert Interval.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/1380. Log Sorting.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -209,11 +209,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="30. Insert Interval.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="30. Insert Interval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/30. Insert Interval.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1380. Log Sorting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lintcode/1380. Log Sorting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -249,7 +259,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/28. Implement strStr().py" />
         <option value="$PROJECT_DIR$/LeetCode/31. Next Permutation.py" />
         <option value="$PROJECT_DIR$/LeetCode/32. Longest Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/LeetCode/33. Search in Rotated Sorted Array.py" />
@@ -300,6 +309,7 @@
         <option value="$PROJECT_DIR$/Lintcode/512. Decode Ways.py" />
         <option value="$PROJECT_DIR$/Lintcode/156. Merge Intervals.py" />
         <option value="$PROJECT_DIR$/Lintcode/30. Insert Interval.py" />
+        <option value="$PROJECT_DIR$/Lintcode/1380. Log Sorting.py" />
       </list>
     </option>
   </component>
@@ -1207,7 +1217,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="144650000" />
+      <workItem from="1562601050122" duration="146169000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1269,7 +1279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297499000" />
+    <option name="totallyTimeSpent" value="299018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1515,14 +1525,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/81. Search in Rotated Sorted Array II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -1921,6 +1923,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/1380. Log Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
           <folding />
         </state>
       </provider>
