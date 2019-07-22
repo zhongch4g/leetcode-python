@@ -24,4 +24,4 @@ class Solution(object):
         return digits
 
 instance = Solution()
-print instance.plusOne([7, 9])
+print (instance.plusOne([7, 9]))

@@ -27,4 +27,4 @@ class Solution(object):
 
 
 instance = Solution()
-print instance.majorityElement([1, 2, 3, 3, 2, 2, 2, 2, 2, 2 ,2])
+print (instance.majorityElement([1, 2, 3, 3, 2, 2, 2, 2, 2, 2 ,2]))
