@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/200. Number of Islands.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py" afterPath="$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,6 +107,7 @@
     <SUITE FILE_PATH="coverage/LeetCode-in-python$122__Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122. Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1492400641072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1562876359646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$42__Trapping_Rain_Water.coverage" NAME="42. Trapping Rain Water Coverage Results" MODIFIED="1563130619074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$627__Longest_Palindrome.coverage" NAME="627. Longest Palindrome Coverage Results" MODIFIED="1563909410153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$169__Majority_Element.coverage" NAME="169. Majority Element Coverage Results" MODIFIED="1492665460589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$512__Decode_Ways.coverage" NAME="512. Decode Ways Coverage Results" MODIFIED="1563808830926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$55__Jump_Game.coverage" NAME="55. Jump Game Coverage Results" MODIFIED="1563307064479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -132,16 +135,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="169. Majority Element.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/169. Majority Element.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="198. House Robber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/198. House Robber.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,7 +145,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="200. Number of Islands.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="200. Number of Islands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/200. Number of Islands.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
@@ -162,21 +155,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="best_time_to_buy_and_seller_stock.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/extra/best_time_to_buy_and_seller_stock.py">
+      <file leaf-file-name="206. Reverse Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="512. Decode Ways.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/512. Decode Ways.py">
+      <file leaf-file-name="627. Longest Palindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="413">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="628. Maximum Subtree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -262,9 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/81. Search in Rotated Sorted Array II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/34. Find First and Last Position of Element in Sorted Array.py" />
-        <option value="$PROJECT_DIR$/LeetCode/39. Combination Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/42. Trapping Rain Water.py" />
         <option value="$PROJECT_DIR$/LeetCode/46. Permutations.py" />
         <option value="$PROJECT_DIR$/LeetCode/47. Permutations II.py" />
@@ -313,6 +313,9 @@
         <option value="$PROJECT_DIR$/LeetCode/152. Maximum Product Subarray.py" />
         <option value="$PROJECT_DIR$/LeetCode/198. House Robber.py" />
         <option value="$PROJECT_DIR$/LeetCode/200. Number of Islands.py" />
+        <option value="$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py" />
+        <option value="$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py" />
+        <option value="$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py" />
       </list>
     </option>
   </component>
@@ -359,6 +362,11 @@
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="Lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -401,25 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.200. Number of Islands">
-    <configuration name="148. Sort List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/148. Sort List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.627. Longest Palindrome">
     <configuration name="152. Maximum Product Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -470,6 +460,24 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/512. Decode Ways.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="627. Longest Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lintcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1133,19 +1141,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.148. Sort List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.512. Decode Ways" />
-      <item index="2" class="java.lang.String" itemvalue="Python.637. Valid Word Abbreviation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.152. Maximum Product Subarray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
+      <item index="0" class="java.lang.String" itemvalue="Python.512. Decode Ways" />
+      <item index="1" class="java.lang.String" itemvalue="Python.637. Valid Word Abbreviation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.152. Maximum Product Subarray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
+      <item index="4" class="java.lang.String" itemvalue="Python.627. Longest Palindrome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
-        <item index="1" class="java.lang.String" itemvalue="Python.152. Maximum Product Subarray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.637. Valid Word Abbreviation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.512. Decode Ways" />
-        <item index="4" class="java.lang.String" itemvalue="Python.148. Sort List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.627. Longest Palindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
+        <item index="2" class="java.lang.String" itemvalue="Python.152. Maximum Product Subarray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.637. Valid Word Abbreviation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.512. Decode Ways" />
       </list>
     </recent_temporary>
   </component>
@@ -1220,7 +1228,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="153229000" />
+      <workItem from="1562601050122" duration="155249000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1282,7 +1290,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306078000" />
+    <option name="totallyTimeSpent" value="308098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1304,7 +1312,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1315,7 +1323,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30471584" sideWeight="0.472103" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30471584" sideWeight="0.472103" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1508,6 +1516,11 @@
           <line>31</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1519,7 +1532,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="82" />
+      <option name="time" value="84" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1528,30 +1541,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/47. Permutations II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/48. Rotate Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/49. Group Anagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/55. Jump Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -1934,6 +1923,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding />
         </state>
       </provider>

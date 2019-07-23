@@ -16,19 +16,6 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        # list = []
-        # temp = head
-        # if head is None:
-        #     return list
-        # while temp.next is not None:
-        #     list.append(temp.val)
-        #     temp = temp.next
-        # list1 = list.reverse()
-        # i = 0
-        # while head.next is not None:
-        #     head.val = list1[i]
-        #     i += 1
-        # return head
 
         # 反转单链表(O(N) 空间复杂度)
         nodeList = []
