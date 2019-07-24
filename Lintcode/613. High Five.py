@@ -11,6 +11,8 @@ class Record:
         self.id = id
         self.score = score
 
+class NewRecord(Record):
+
     def __lt__(self, other):
         return self.score < other.score
 
@@ -39,4 +41,4 @@ class Solution:
 
 
 solution = Solution()
-solution.highFive([Record(1,100),Record(1,100),Record(1,100),Record(1,100),Record(1,20),Record(1,100)])
+solution.highFive([NewRecord(1,100),NewRecord(1,100),NewRecord(1,100),NewRecord(1,100),NewRecord(1,20),NewRecord(1,100)])
