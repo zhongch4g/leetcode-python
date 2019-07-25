@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/105. Copy List with Random Pointer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/1784. Decrease To Be Palindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/35. Reverse Linked List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/837. Palindromic Substrings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -25,6 +26,7 @@
     <SUITE FILE_PATH="coverage/LeetCode-in-python$35__Search_Insert_Position.coverage" NAME="35. Search Insert Position Coverage Results" MODIFIED="1493649024353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$23__Merge_k_Sorted_Lists.coverage" NAME="23. Merge k Sorted Lists Coverage Results" MODIFIED="1562948260734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$212__Word_Search_II.coverage" NAME="212. Word Search II Coverage Results" MODIFIED="1563458963805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$837__Palindromic_Substrings.coverage" NAME="837. Palindromic Substrings Coverage Results" MODIFIED="1563996663553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$9__Palindrome_Number.coverage" NAME="9. Palindrome Number Coverage Results" MODIFIED="1494305141513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$268__Missing_Number.coverage" NAME="268. Missing Number Coverage Results" MODIFIED="1493185244166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$1__Two_Sum.coverage" NAME="1. Two Sum Coverage Results" MODIFIED="1560809508748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -139,36 +141,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="627. Longest Palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="628. Maximum Subtree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="626. Rectangle Overlap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/626. Rectangle Overlap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="604. Window Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/604. Window Sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -229,11 +201,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1784. Decrease To Be Palindrome.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1784. Decrease To Be Palindrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/1784. Decrease To Be Palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="532">
               <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="837. Palindromic Substrings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lintcode/837. Palindromic Substrings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="35. Reverse Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/35. Reverse Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="649. Binary Tree Upside Down.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -269,9 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/62. Unique Paths.py" />
-        <option value="$PROJECT_DIR$/LeetCode/64. Minimum Path Sum.py" />
-        <option value="$PROJECT_DIR$/LeetCode/70. Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/LeetCode/75. Sort Colors.py" />
         <option value="$PROJECT_DIR$/LeetCode/72. Edit Distance.py" />
         <option value="$PROJECT_DIR$/LeetCode/76. Minimum Window Substring.py" />
@@ -320,6 +319,9 @@
         <option value="$PROJECT_DIR$/Lintcode/612. K Closest Points.py" />
         <option value="$PROJECT_DIR$/Lintcode/105. Copy List with Random Pointer.py" />
         <option value="$PROJECT_DIR$/Lintcode/1784. Decrease To Be Palindrome.py" />
+        <option value="$PROJECT_DIR$/Lintcode/35. Reverse Linked List.py" />
+        <option value="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" />
+        <option value="$PROJECT_DIR$/Lintcode/837. Palindromic Substrings.py" />
       </list>
     </option>
   </component>
@@ -413,7 +415,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1784. Decrease To Be Palindrome">
+  <component name="RunManager" selected="Python.837. Palindromic Substrings">
     <configuration name="1784. Decrease To Be Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -428,24 +430,6 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/1784. Decrease To Be Palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="604. Window Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lintcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/604. Window Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -500,6 +484,24 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/616. Course Schedule II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="837. Palindromic Substrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lintcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/837. Palindromic Substrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1145,19 +1147,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.604. Window Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.616. Course Schedule II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.613. High Five" />
-      <item index="3" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Python.616. Course Schedule II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.613. High Five" />
+      <item index="2" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
-        <item index="2" class="java.lang.String" itemvalue="Python.613. High Five" />
-        <item index="3" class="java.lang.String" itemvalue="Python.616. Course Schedule II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.604. Window Sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
+        <item index="3" class="java.lang.String" itemvalue="Python.613. High Five" />
+        <item index="4" class="java.lang.String" itemvalue="Python.616. Course Schedule II" />
       </list>
     </recent_temporary>
   </component>
@@ -1232,7 +1234,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="168007000" />
+      <workItem from="1562601050122" duration="170479000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1294,7 +1296,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320856000" />
+    <option name="totallyTimeSpent" value="323328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1556,7 +1558,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="93" />
+      <option name="time" value="94" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1565,30 +1567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/79. Word Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/34. Find First and Last Position of Element in Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/53. Maximum Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/64. Minimum Path Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -1967,8 +1945,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/1784. Decrease To Be Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="532">
           <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/35. Reverse Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/837. Palindromic Substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding />
         </state>
       </provider>
