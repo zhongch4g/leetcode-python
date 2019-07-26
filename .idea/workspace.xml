@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/184. Largest Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/406. Minimum Size Subarray Sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/quick_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/207. Course Schedule.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -21,6 +19,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_python$46__Permutations.coverage" NAME="46. Permutations Coverage Results" MODIFIED="1563142517130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$560__Subarray_Sum_Equals_K.coverage" NAME="560. Subarray Sum Equals K Coverage Results" MODIFIED="1563557829517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$207__Course_Schedule.coverage" NAME="207. Course Schedule Coverage Results" MODIFIED="1564162158923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$39__Combination_Sum.coverage" NAME="39. Combination Sum Coverage Results" MODIFIED="1563125880124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$10__Regular_Expression_Matching.coverage" NAME="10. Regular Expression Matching Coverage Results" MODIFIED="1562709811534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$35__Search_Insert_Position.coverage" NAME="35. Search Insert Position Coverage Results" MODIFIED="1493649024353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -152,11 +151,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="184. Largest Number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="184. Largest Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/184. Largest Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
+            <state relative-caret-position="399">
               <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="207. Course Schedule.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/207. Course Schedule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="616. Course Schedule II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/616. Course Schedule II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -202,7 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/96. Unique Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/LeetCode/98. Validate Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/101. Symmetric Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/102. Binary Tree Level Order Traversal.py" />
@@ -239,7 +257,6 @@
         <option value="$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py" />
         <option value="$PROJECT_DIR$/Lintcode/626. Rectangle Overlap.py" />
         <option value="$PROJECT_DIR$/Lintcode/604. Window Sum.py" />
-        <option value="$PROJECT_DIR$/Lintcode/616. Course Schedule II.py" />
         <option value="$PROJECT_DIR$/Lintcode/613. High Five.py" />
         <option value="$PROJECT_DIR$/Lintcode/612. K Closest Points.py" />
         <option value="$PROJECT_DIR$/Lintcode/105. Copy List with Random Pointer.py" />
@@ -253,6 +270,8 @@
         <option value="$PROJECT_DIR$/Lintcode/406. Minimum Size Subarray Sum.py" />
         <option value="$PROJECT_DIR$/Lintcode/quick_sort.py" />
         <option value="$PROJECT_DIR$/Lintcode/184. Largest Number.py" />
+        <option value="$PROJECT_DIR$/Lintcode/616. Course Schedule II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/207. Course Schedule.py" />
       </list>
     </option>
   </component>
@@ -346,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.184. Largest Number">
+  <component name="RunManager" selected="Python.207. Course Schedule">
     <configuration name="1784. Decrease To Be Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,6 +402,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="207. Course Schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/207. Course Schedule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="612. K Closest Points" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,24 +434,6 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/612. K Closest Points.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="613. High Five" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lintcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/613. High Five.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1078,19 +1097,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.613. High Five" />
-      <item index="1" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.184. Largest Number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
+      <item index="2" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.184. Largest Number" />
+      <item index="4" class="java.lang.String" itemvalue="Python.207. Course Schedule" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.184. Largest Number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
-        <item index="4" class="java.lang.String" itemvalue="Python.613. High Five" />
+        <item index="0" class="java.lang.String" itemvalue="Python.207. Course Schedule" />
+        <item index="1" class="java.lang.String" itemvalue="Python.184. Largest Number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.837. Palindromic Substrings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1784. Decrease To Be Palindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Python.612. K Closest Points" />
       </list>
     </recent_temporary>
   </component>
@@ -1165,7 +1184,7 @@
       <workItem from="1495812880601" duration="70000" />
       <workItem from="1496217794847" duration="284000" />
       <workItem from="1560809441876" duration="526000" />
-      <workItem from="1562601050122" duration="177994000" />
+      <workItem from="1562601050122" duration="179506000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1227,7 +1246,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330843000" />
+    <option name="totallyTimeSpent" value="332355000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1478,6 +1497,11 @@
           <line>40</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/207. Course Schedule.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1489,7 +1513,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="94" />
+      <option name="time" value="99" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1498,14 +1522,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/94. Binary Tree Inorder Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -1786,14 +1802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lintcode/616. Course Schedule II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/613. High Five.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1900,8 +1908,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/184. Largest Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
+        <state relative-caret-position="399">
           <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/616. Course Schedule II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/207. Course Schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding />
         </state>
       </provider>
