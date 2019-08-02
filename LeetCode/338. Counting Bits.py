@@ -18,7 +18,6 @@ class Solution(object):
         count = count
         # print range(-1, 3)
         bitList = [2 ** x for x in range(count)]
-        print bitList # [0, 1, 2, 4]
         countList = []
         for c in range(num + 1):
             numOfOne = 0
@@ -34,19 +33,16 @@ class Solution(object):
         :type num: int
         :rtype: List[int]
         """
-        # find the partern of the problem
-        res = [0]
-        while len(res) <= num:
-            res += [i+1 for i in res]
-            # print res
+        res = [0] * (num + 1)
+        for i in range(1, num + 1):
+            res[i] = (i & 1) + res[i >> 1]
+        return res
 
-        return res[:num+1]
 
-    # Counting Bits with dp Solution
-    # https://leetcode.com/problems/counting-bits/#/solutions
+
 
 instance = Solution()
-print instance.countBits2(17)
+print (instance.countBits2(17))
 # [0, 1, 2, 4, 8, 16, 32]
 
 # [0,1,1,2,1,2,2,3,1,2,2,3,2,3,3,4,1,2]
