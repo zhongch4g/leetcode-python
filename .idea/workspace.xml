@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/338. Counting Bits.py" afterPath="$PROJECT_DIR$/LeetCode/338. Counting Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,6 +121,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$647__Find_All_Anagrams_in_a_String.coverage" NAME="647. Find All Anagrams in a String Coverage Results" MODIFIED="1564698515285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$42__Trapping_Rain_Water.coverage" NAME="42. Trapping Rain Water Coverage Results" MODIFIED="1563130619074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$627__Longest_Palindrome.coverage" NAME="627. Longest Palindrome Coverage Results" MODIFIED="1563909410153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$1144__Decrease_Elements_To_Make_Array_Zigzag.coverage" NAME="1144. Decrease Elements To Make Array Zigzag Coverage Results" MODIFIED="1564889489557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$169__Majority_Element.coverage" NAME="169. Majority Element Coverage Results" MODIFIED="1492665460589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$512__Decode_Ways.coverage" NAME="512. Decode Ways Coverage Results" MODIFIED="1563808830926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$55__Jump_Game.coverage" NAME="55. Jump Game Coverage Results" MODIFIED="1563307064479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -148,16 +150,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="423. Valid Parentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/423. Valid Parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="640. One Edit Distance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/640. One Edit Distance.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -238,11 +230,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="338. Counting Bits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="338. Counting Bits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/338. Counting Bits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="674">
               <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1144. Decrease Elements To Make Array Zigzag.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -278,7 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/206. Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/Lintcode/627. Longest Palindrome.py" />
         <option value="$PROJECT_DIR$/Lintcode/628. Maximum Subtree.py" />
         <option value="$PROJECT_DIR$/Lintcode/626. Rectangle Overlap.py" />
@@ -329,6 +330,7 @@
         <option value="$PROJECT_DIR$/LeetCode/57. Insert Interval.py" />
         <option value="$PROJECT_DIR$/LeetCode/63. Unique Paths II.py" />
         <option value="$PROJECT_DIR$/LeetCode/338. Counting Bits.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py" />
       </list>
     </option>
   </component>
@@ -422,7 +424,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.647. Find All Anagrams in a String">
+  <component name="RunManager" selected="Python.1144. Decrease Elements To Make Array Zigzag">
+    <configuration name="1144. Decrease Elements To Make Array Zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="54. String to Integer (atoi)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,24 +457,6 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/54. String to Integer (atoi).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="586. Sqrt(x) II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lintcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lintcode/586. Sqrt(x) II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1154,19 +1156,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.586. Sqrt(x) II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.641. Missing Ranges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.640. One Edit Distance" />
-      <item index="3" class="java.lang.String" itemvalue="Python.54. String to Integer (atoi)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.647. Find All Anagrams in a String" />
+      <item index="0" class="java.lang.String" itemvalue="Python.641. Missing Ranges" />
+      <item index="1" class="java.lang.String" itemvalue="Python.640. One Edit Distance" />
+      <item index="2" class="java.lang.String" itemvalue="Python.54. String to Integer (atoi)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.647. Find All Anagrams in a String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1144. Decrease Elements To Make Array Zigzag" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.647. Find All Anagrams in a String" />
-        <item index="1" class="java.lang.String" itemvalue="Python.54. String to Integer (atoi)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.640. One Edit Distance" />
-        <item index="3" class="java.lang.String" itemvalue="Python.641. Missing Ranges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.586. Sqrt(x) II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1144. Decrease Elements To Make Array Zigzag" />
+        <item index="1" class="java.lang.String" itemvalue="Python.647. Find All Anagrams in a String" />
+        <item index="2" class="java.lang.String" itemvalue="Python.54. String to Integer (atoi)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.640. One Edit Distance" />
+        <item index="4" class="java.lang.String" itemvalue="Python.641. Missing Ranges" />
       </list>
     </recent_temporary>
   </component>
@@ -1244,7 +1246,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="5571000" />
+      <workItem from="1564694504594" duration="7458000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1306,7 +1308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376998000" />
+    <option name="totallyTimeSpent" value="378885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1329,8 +1331,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1602,6 +1604,11 @@
           <line>46</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1613,7 +1620,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="115" />
+      <option name="time" value="116" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1622,13 +1629,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lintcode/512. Decode Ways.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/105. Copy List with Random Pointer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1997,6 +1997,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="674">
           <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
           <folding />
         </state>
       </provider>
