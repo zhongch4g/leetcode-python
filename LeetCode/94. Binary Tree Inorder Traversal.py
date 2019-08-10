@@ -33,7 +33,7 @@ class Solution:
         result = []
         stack = []
         curr = root
-        while curr is not None or not self.is_empty(stack):
+        while curr is not None or stack:
             while curr is not None:
                 stack.append(curr)
                 curr = curr.left
