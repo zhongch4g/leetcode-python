@@ -24,7 +24,7 @@ class Solution:
 
 
 solution = Solution()
-res = solution.lengthOfLongestSubstring("tmmzuxt")
+res = solution.lengthOfLongestSubstring("abba")
 print(res)
 
 
