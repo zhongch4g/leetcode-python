@@ -23,9 +23,5 @@ class Solution:
         return length
 
 
-solution = Solution()
-res = solution.lengthOfLongestSubstring("abba")
-print(res)
-
 
 
