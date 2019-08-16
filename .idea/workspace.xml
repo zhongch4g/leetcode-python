@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/448. Inorder Successor in BST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" afterPath="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -217,21 +220,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="407">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="145. Binary Tree Postorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/145. Binary Tree Postorder Traversal.py">
+      <file leaf-file-name="661. Convert BST to Greater Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="303">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="649. Binary Tree Upside Down.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="448. Inorder Successor in BST.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lintcode/448. Inorder Successor in BST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -267,9 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lintcode/569. Add Digits.py" />
-        <option value="$PROJECT_DIR$/Lintcode/488. Happy Number.py" />
-        <option value="$PROJECT_DIR$/Lintcode/419. Roman to Integer.py" />
         <option value="$PROJECT_DIR$/Lintcode/586. Sqrt(x) II.py" />
         <option value="$PROJECT_DIR$/Lintcode/596. Mininum Subtree.py" />
         <option value="$PROJECT_DIR$/Lintcode/480. Binary Tree Paths.py" />
@@ -318,6 +338,9 @@
         <option value="$PROJECT_DIR$/LeetCode/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/116. Populating Next Right Pointers in Each Node.py" />
         <option value="$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py" />
+        <option value="$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py" />
+        <option value="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" />
+        <option value="$PROJECT_DIR$/Lintcode/448. Inorder Successor in BST.py" />
       </list>
     </option>
   </component>
@@ -356,11 +379,6 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
@@ -1233,7 +1251,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="46961000" />
+      <workItem from="1564694504594" duration="48966000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1295,7 +1313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="418388000" />
+    <option name="totallyTimeSpent" value="420393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1625,21 +1643,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lintcode/480. Binary Tree Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lintcode/596. Mininum Subtree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/428. Pow(x, n).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1914,14 +1917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/103. Binary Tree Zigzag Level Order Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -2028,8 +2023,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="407">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/448. Inorder Successor in BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding />
         </state>
       </provider>

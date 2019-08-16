@@ -20,4 +20,19 @@ class Solution:
     def upsideDownBinaryTree(self, root):
         if not root:
             return None
+        return self.usd(root)
+
+    def usd(self, root):
+        if not root.left:
+            return root
+
+        cur_root = self.usd(root.left)
+
+        root.left.right = root
+        root.left.left = root.right
+        root.left = None
+        root.right = None
+
+        return cur_root
+
 
