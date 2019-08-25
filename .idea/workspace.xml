@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/91. Decode Ways.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" afterPath="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,81 +165,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="157. Read N Characters Given Read4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/157. Read N Characters Given Read4.py">
+      <file leaf-file-name="380. Insert Delete GetRandom O(1).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="1368">
+              <caret line="72" column="35" lean-forward="false" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="158. Read N Characters Given Read4 II - Call multiple times.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/158. Read N Characters Given Read4 II - Call multiple times.py">
+      <file leaf-file-name="771. Jewels and Stones.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="973. K Closest Points to Origin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/973. K Closest Points to Origin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="937. Reorder Log Files.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/937. Reorder Log Files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="289. Game of Life.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/289. Game of Life.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7. Reverse Integer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/7. Reverse Integer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="629. Minimum Spanning Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="91. Decode Ways.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -275,8 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lintcode/12. Min Stack.py" />
-        <option value="$PROJECT_DIR$/Lintcode/54. String to Integer (atoi).py" />
         <option value="$PROJECT_DIR$/Lintcode/647. Find All Anagrams in a String.py" />
         <option value="$PROJECT_DIR$/LeetCode/238. Product of Array Except Self.py" />
         <option value="$PROJECT_DIR$/LeetCode/287. Find the Duplicate Number.py" />
@@ -326,6 +264,8 @@
         <option value="$PROJECT_DIR$/LeetCode/289. Game of Life.py" />
         <option value="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/91. Decode Ways.py" />
+        <option value="$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py" />
+        <option value="$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py" />
       </list>
     </option>
   </component>
@@ -1236,7 +1176,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="66089000" />
+      <workItem from="1564694504594" duration="66476000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1298,7 +1238,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437516000" />
+    <option name="totallyTimeSpent" value="437903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1322,7 +1262,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1332,7 +1272,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30471584" sideWeight="0.472103" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30471584" sideWeight="0.472103" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1639,22 +1579,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/57. Insert Interval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/63. Unique Paths II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="33" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/338. Counting Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="674">
@@ -2047,8 +1971,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="35" lean-forward="false" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
