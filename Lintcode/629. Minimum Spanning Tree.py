@@ -75,6 +75,7 @@ class Solution:
         return results
 
     def find(self, num, father):
+        # when its root is 0 return itself
         if father[num] == 0:
             return num
         father[num] = self.find(father[num], father)

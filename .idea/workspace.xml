@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/91. Decode Ways.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" afterPath="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +44,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$121__Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121. Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1563578118040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$794__Sliding_Puzzle_II.coverage" NAME="794. Sliding Puzzle II Coverage Results" MODIFIED="1565306126364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$26__Remove_Duplicates_from_Sorted_Array.coverage" NAME="26. Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1494299366386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/leetcode_python$629__Minimum_Spanning_Tree.coverage" NAME="629. Minimum Spanning Tree Coverage Results" MODIFIED="1566703680985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$629__Minimum_Spanning_Tree.coverage" NAME="629. Minimum Spanning Tree Coverage Results" MODIFIED="1566771321613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$28__Implement_strStr__.coverage" NAME="28. Implement strStr() Coverage Results" MODIFIED="1562991737059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$34__Find_First_and_Last_Position_of_Element_in_Sorted_Array.coverage" NAME="34. Find First and Last Position of Element in Sorted Array Coverage Results" MODIFIED="1563059839305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$796__Open_the_Lock.coverage" NAME="796. Open the Lock Coverage Results" MODIFIED="1565287416247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
@@ -147,6 +148,7 @@
     <SUITE FILE_PATH="coverage/LeetCode-in-python$557__Reverse_Words_in_a_String_III.coverage" NAME="557. Reverse Words in a String III Coverage Results" MODIFIED="1492074784598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$500__Keyboard_Row.coverage" NAME="500. Keyboard Row Coverage Results" MODIFIED="1492781294428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$101__Symmetric_Tree.coverage" NAME="101. Symmetric Tree Coverage Results" MODIFIED="1563487010630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$91__Decode_Ways.coverage" NAME="91. Decode Ways Coverage Results" MODIFIED="1566773090511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$641__Missing_Ranges.coverage" NAME="641. Missing Ranges Coverage Results" MODIFIED="1564340438137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$374__Guess_Number_Higher_or_Lower.coverage" NAME="374. Guess Number Higher or Lower Coverage Results" MODIFIED="1494426776488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$409__Longest_Palindrome.coverage" NAME="409. Longest Palindrome Coverage Results" MODIFIED="1492781964472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -223,11 +225,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="629. Minimum Spanning Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="629. Minimum Spanning Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+            <state relative-caret-position="116">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="91. Decode Ways.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -263,7 +275,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lintcode/640. One Edit Distance.py" />
         <option value="$PROJECT_DIR$/Lintcode/12. Min Stack.py" />
         <option value="$PROJECT_DIR$/Lintcode/54. String to Integer (atoi).py" />
         <option value="$PROJECT_DIR$/Lintcode/647. Find All Anagrams in a String.py" />
@@ -314,6 +325,7 @@
         <option value="$PROJECT_DIR$/LeetCode/937. Reorder Log Files.py" />
         <option value="$PROJECT_DIR$/LeetCode/289. Game of Life.py" />
         <option value="$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py" />
+        <option value="$PROJECT_DIR$/LeetCode/91. Decode Ways.py" />
       </list>
     </option>
   </component>
@@ -356,7 +368,7 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,7 +414,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.629. Minimum Spanning Tree">
+  <component name="RunManager" selected="Python.91. Decode Ways">
     <configuration name="253. Meeting Rooms II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -475,7 +487,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="79. Word Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="91. Decode Ways" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -488,7 +500,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/79. Word Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/91. Decode Ways.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1134,19 +1146,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.79. Word Search" />
-      <item index="1" class="java.lang.String" itemvalue="Python.254. Factor Combinations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-      <item index="4" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.254. Factor Combinations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+      <item index="3" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-        <item index="2" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.254. Factor Combinations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.79. Word Search" />
+        <item index="0" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
+        <item index="1" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+        <item index="3" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.254. Factor Combinations" />
       </list>
     </recent_temporary>
   </component>
@@ -1224,7 +1236,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="64684000" />
+      <workItem from="1564694504594" duration="66089000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1286,7 +1298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436111000" />
+    <option name="totallyTimeSpent" value="437516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1602,6 +1614,11 @@
           <line>60</line>
           <option name="timeStamp" value="134" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1613,7 +1630,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="135" />
+      <option name="time" value="137" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1622,14 +1639,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/287. Find the Duplicate Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/57. Insert Interval.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -2030,8 +2039,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/629. Minimum Spanning Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        <state relative-caret-position="116">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
