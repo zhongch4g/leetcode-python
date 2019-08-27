@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -205,11 +205,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="295. Find Median from Data Stream.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="295. Find Median from Data Stream.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="591. Connecting Graph III.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -255,7 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/57. Insert Interval.py" />
         <option value="$PROJECT_DIR$/LeetCode/63. Unique Paths II.py" />
         <option value="$PROJECT_DIR$/LeetCode/338. Counting Bits.py" />
         <option value="$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py" />
@@ -306,6 +315,7 @@
         <option value="$PROJECT_DIR$/LeetCode/88. Merge Sorted Array.py" />
         <option value="$PROJECT_DIR$/LeetCode/54. Spiral Matrix.py" />
         <option value="$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py" />
+        <option value="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
       </list>
     </option>
   </component>
@@ -348,7 +358,7 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Lintcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1216,7 +1226,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="68580000" />
+      <workItem from="1564694504594" duration="69133000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1278,7 +1288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440007000" />
+    <option name="totallyTimeSpent" value="440560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1619,14 +1629,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lintcode/526. Load Balancer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/124. Longest Consecutive Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -2029,6 +2031,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding />
         </state>
       </provider>
