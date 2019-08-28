@@ -24,3 +24,33 @@ class Solution(object):
                     curr_num += 1
                 longest = max(longest, curr_num)
         return longest
+
+
+class Solution2:
+    def longestConsecutive(self, nums) -> int:
+        if not nums:
+            return 0
+
+        self.father = {i: i for i in nums}
+        self.size = {i: 1 for i in nums}
+
+        for num in nums:
+
+            if num - 1 in nums:
+                self.union(num, num - 1)
+            if num + 1 in nums:
+                self.union(num, num + 1)
+        return max(self.size.values())
+
+    def union(self, a, b):
+        root_a = self.find(a)
+        root_b = self.find(b)
+        if root_a != root_b:
+            self.father[root_a] = root_b
+            self.size[root_b] += self.size[root_a]
+
+    def find(self, a):
+        if self.father[a] == a:
+            return a
+        self.father[a] = self.find(self.father[a])
+        return self.father[a]
