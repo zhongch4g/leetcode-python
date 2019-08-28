@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/305. Number of Islands II.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -36,6 +37,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$64__Minimum_Path_Sum.coverage" NAME="64. Minimum Path Sum Coverage Results" MODIFIED="1563322981586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$96__Unique_Binary_Search_Trees.coverage" NAME="96. Unique Binary Search Trees Coverage Results" MODIFIED="1563468209255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$263__Ugly_Number.coverage" NAME="263. Ugly Number Coverage Results" MODIFIED="1493799742994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$261__Graph_Valid_Tree.coverage" NAME="261. Graph Valid Tree Coverage Results" MODIFIED="1566965949946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$612__K_Closest_Points.coverage" NAME="612. K Closest Points Coverage Results" MODIFIED="1563934797429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$289__Game_of_Life.coverage" NAME="289. Game of Life Coverage Results" MODIFIED="1566537588577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$54__Spiral_Matrix.coverage" NAME="54. Spiral Matrix Coverage Results" MODIFIED="1566778933809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -215,11 +217,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="591. Connecting Graph III.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="591. Connecting Graph III.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
               <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="305. Number of Islands II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/305. Number of Islands II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="261. Graph Valid Tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -265,8 +287,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/63. Unique Paths II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/338. Counting Bits.py" />
         <option value="$PROJECT_DIR$/LeetCode/1144. Decrease Elements To Make Array Zigzag.py" />
         <option value="$PROJECT_DIR$/Lintcode/158. Valid Anagram.py" />
         <option value="$PROJECT_DIR$/Lintcode/648. Unique Word Abbreviation.py" />
@@ -316,6 +336,8 @@
         <option value="$PROJECT_DIR$/LeetCode/54. Spiral Matrix.py" />
         <option value="$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py" />
         <option value="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
+        <option value="$PROJECT_DIR$/LeetCode/305. Number of Islands II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py" />
       </list>
     </option>
   </component>
@@ -354,6 +376,11 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
@@ -404,8 +431,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.54. Spiral Matrix">
-    <configuration name="253. Meeting Rooms II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.261. Graph Valid Tree">
+    <configuration name="261. Graph Valid Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -418,7 +445,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/253. Meeting Rooms II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1136,19 +1163,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-      <item index="2" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
-      <item index="4" class="java.lang.String" itemvalue="Python.54. Spiral Matrix" />
+      <item index="0" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+      <item index="1" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
+      <item index="3" class="java.lang.String" itemvalue="Python.54. Spiral Matrix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.261. Graph Valid Tree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.54. Spiral Matrix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
-        <item index="2" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-        <item index="4" class="java.lang.String" itemvalue="Python.253. Meeting Rooms II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.261. Graph Valid Tree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.54. Spiral Matrix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
+        <item index="3" class="java.lang.String" itemvalue="Python.629. Minimum Spanning Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.289. Game of Life" />
       </list>
     </recent_temporary>
   </component>
@@ -1226,7 +1253,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="69133000" />
+      <workItem from="1564694504594" duration="71108000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1288,7 +1315,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440560000" />
+    <option name="totallyTimeSpent" value="442535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1311,8 +1338,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1609,6 +1636,11 @@
           <line>14</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1620,7 +1652,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="139" />
+      <option name="time" value="141" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1629,22 +1661,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lintcode/124. Longest Consecutive Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lintcode/639. Word Abbreviation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/663. Walls and Gates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -2039,6 +2055,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/305. Number of Islands II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding />
         </state>
       </provider>
