@@ -50,6 +50,51 @@ class Solution:
         return 0 <= i < len(board) and 0 <= j < len(board[0])
 
 
+class Solution2:
+    def findWords(self, board, words):
+        m = len(board)
+        if m == 0:
+            return []
+        n = len(board[0])
+        if n == 0:
+            return []
+        if not words:
+            return []
+
+        trie = {}
+        for word in words:
+            root = trie
+            for c in word:
+                if c not in root:
+                    root[c] = {}
+                root = root[c]
+            root['#'] = word
+        results = set()
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] not in trie:
+                    continue
+                self.search(board, i, j, trie[board[i][j]], {(i, j)}, results)
+        return results
+
+    def search(self, board, i, j, trie, visited, results):
+
+        if '#' in trie:
+            results.add(trie['#'])
+            trie.pop('#')
+
+        for s1, s2 in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+            _x = i + s1
+            _y = j + s2
+            if _x < 0 or _x >= len(board) or _y < 0 or _y >= len(board[0]):
+                continue
+            if (_x, _y) in visited:
+                continue
+            visited.add((_x, _y))
+            if board[_x][_y] in trie:
+                self.search(board, _x, _y, trie[board[_x][_y]], visited, results)
+            visited.remove((_x, _y))
+
 
 board = [
     ['o','a','a','n'],
@@ -57,7 +102,12 @@ board = [
     ['i','h','k','r'],
     ['i','f','l','v']
 ]
-words = ["oath","pea","eat","rain"]
-solution = Solution()
-res = solution.findWords(board, words)
+board1 = [["b"],
+          ["a"],
+          ["b"],
+          ["b"],
+          ["a"]]
+words = ["baa","abba","baab","aba"]
+solution = Solution2()
+res = solution.findWords(board1, words)
 print(res)
