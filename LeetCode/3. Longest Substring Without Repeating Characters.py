@@ -22,6 +22,21 @@ class Solution:
             j += 1
         return length
 
+import sys
+class Solution2:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        length = len(s)
+        counter = {c: 0 for c in s}
+        maxlen = - sys.maxsize - 1
+        j = 0
+        for i in range(length):
+            while j < length and counter[s[j]] == 0:
+                maxlen = max(maxlen, j - i + 1)
+                counter[s[j]] += 1
+                j += 1
+            counter[s[i]] -= 1
+        return maxlen if maxlen != - sys.maxsize - 1 else 0
+
 
 
 
