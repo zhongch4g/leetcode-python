@@ -6,68 +6,44 @@
 # @File    : 76. Minimum Window Substring.py
 # @Software: IntelliJ IDEA
 
-import sys
-import collections
 
 class Solution:
-    # Follow-up: allow for at most 1 character of difference
-    def minWindow(self, s, t):
-        counts = collections.Counter(t)
-        numToMatch = len(counts)
-        result = ''
-        n = len(s)
-        left = right = 0
-        minLen = float('inf')
-        while right < n:
-            counts[s[right]] -= 1
-            if counts[s[right]] == 0:
-                numToMatch -= 1
-            while numToMatch <= 1:
-                if right - left + 1 < minLen:
-                    minLen = right - left + 1
-                    result = s[left : right + 1]
-                counts[s[left]] += 1
-                if counts[s[left]] > 0:
-                    numToMatch += 1
-                left += 1
-            right += 1
-        return result
+    def minWindow(self, s: str, t: str) -> str:
+        if not t or not s:
+            return ""
 
-    def minWindow2(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: str
-        """
-        targetSet = {}
+        cntS = [0 for i in range(256)]
+        cntT = [0 for j in range(256)]
+
+        K = 0
         for c in t:
-            targetSet[c] = targetSet.get(c, 0) + 1
-        targetNumber = len(targetSet)
+            cntT[ord(c)] += 1
+            if cntT[ord(c)] == 1:
+                K += 1
+        C = 0
+        r = 0
+        ansl, ansr = -1, -1
+        for l in range(len(s)):
 
-        minLen = len(s) + 1
-        result = ''
-        i = 0
-        for j in range(len(s)):
-            if s[j] in targetSet:
-                targetSet[s[j]] -= 1
-                if targetSet[s[j]] == 0:
-                    targetNumber -= 1
+            while r < len(s) and C < K:
+                cntS[ord(s[r])] += 1
+                if cntS[ord(s[r])] == cntT[ord(s[r])]:
+                    C += 1
+                r += 1
 
-            while targetNumber == 0:
-                if j - i + 1 < minLen:
-                    minLen = j - i + 1
-                    result = s[i : j + 1]
-                if s[i] in targetSet:
-                    targetSet[s[i]] += 1
-                    if targetSet[s[i]] > 0:
-                        targetNumber += 1
-                i += 1
+            if C == K:
+                if ansl == -1 or r - l < ansr - ansl:
+                    ansr = r
+                    ansl = l
 
-        return result
+            cntS[ord(s[l])] -= 1
+            if cntS[ord(s[l])] == cntT[ord(s[l])] - 1:
+                C -= 1
+        return s[ansl: ansr]
 
 
 S = "ADOBECODEBANNC"
 T = "ABC"
 solution = Solution()
-res = solution.minWindow2(S, T)
+res = solution.minWindow(S, T)
 print(res)

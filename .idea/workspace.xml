@@ -165,16 +165,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="88. Merge Sorted Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/88. Merge Sorted Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="54. Spiral Matrix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/54. Spiral Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -245,11 +235,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="209. Minimum Size Subarray Sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="209. Minimum Size Subarray Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/209. Minimum Size Subarray Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -320,7 +320,6 @@
         <option value="$PROJECT_DIR$/LeetCode/250. Count Univalue Subtrees.py" />
         <option value="$PROJECT_DIR$/LeetCode/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/116. Populating Next Right Pointers in Each Node.py" />
-        <option value="$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py" />
         <option value="$PROJECT_DIR$/Lintcode/649. Binary Tree Upside Down.py" />
         <option value="$PROJECT_DIR$/Lintcode/448. Inorder Successor in BST.py" />
@@ -346,6 +345,7 @@
         <option value="$PROJECT_DIR$/LeetCode/128. Longest Consecutive Sequence.py" />
         <option value="$PROJECT_DIR$/LeetCode/212. Word Search II.py" />
         <option value="$PROJECT_DIR$/LeetCode/209. Minimum Size Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py" />
       </list>
     </option>
   </component>
@@ -1261,7 +1261,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="73740000" />
+      <workItem from="1564694504594" duration="73935000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1323,7 +1323,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445167000" />
+    <option name="totallyTimeSpent" value="445362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1824,14 +1824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/661. Convert BST to Greater Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -2078,6 +2070,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/3. Longest Substring Without Repeating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
         </state>
       </provider>
