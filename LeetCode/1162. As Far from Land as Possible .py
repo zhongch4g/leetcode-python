@@ -3,7 +3,7 @@
 # @Time    : 2019/8/17 10:53 PM
 # @Author  : zhongch4g
 # @Site    : 
-# @File    : 5053. As Far from Land as Possible.py
+# @File    : 1162. As Far from Land as Possible .py
 # @Software: IntelliJ IDEA
 
 

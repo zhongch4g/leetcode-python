@@ -8,24 +8,23 @@
 
 
 class Solution:
-    def trap(self, height):
-        left, right = 1, len(height) - 2
-        left_max, right_max = 0, 0
-        sum_trap = 0
-        for i in range(1, len(height) - 1):
-            # update left
-            if height[left - 1] < height[right + 1]:
-                left_max = max(left_max, height[left - 1])
-                if left_max > height[left]:
-                    sum_trap += (left_max - height[left])
+    def trap(self, height) -> int:
+        if not height:
+            return 0
+        leftmax = height[0]
+        rightmax = height[-1]
+        counter = 0
+        left, right = 0, len(height) - 1
+        while left <= right:
+            if leftmax < rightmax:
+                leftmax = max(leftmax, height[left])
+                counter += leftmax - height[left]
                 left += 1
             else:
-                right_max = max(right_max, height[right + 1])
-                if right_max > height[right]:
-                    sum_trap += (right_max - height[right])
+                rightmax = max(rightmax, height[right])
+                counter += rightmax - height[right]
                 right -= 1
-        return sum_trap
-
+        return counter
 
 height = [0,1,0,2,1,0,1,3,2,1,2,1]
 solution = Solution()
