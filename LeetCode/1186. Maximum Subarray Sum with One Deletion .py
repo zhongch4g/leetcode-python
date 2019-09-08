@@ -7,6 +7,26 @@
 # @Software: IntelliJ IDEA
 
 
+import sys
+class Solution1:
+    def maximumSum(self, arr) -> int:
+        pre = [None] * len(arr)
+        pre[0] = arr[0]
+        maxsum = arr[0]
+        for i in range(1, len(arr)):
+            pre[i] = max(arr[i], pre[i - 1] + arr[i])
+            maxsum = max(maxsum, pre[i])
+
+        back = [None] * len(arr)
+        back[len(arr) - 1] = arr[len(arr) - 1]
+        for i in range(len(arr) - 2, -1, -1):
+            back[i] = max(arr[i], back[i + 1] + arr[i])
+
+        for i in range(1, len(arr) - 1):
+            maxsum = max(maxsum, pre[i - 1] + back[i + 1])
+        return maxsum
+
+
 class Solution:
 
     def maximumSum(self, arr) -> int:
