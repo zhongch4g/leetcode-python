@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/394. Decode String.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/202. Happy Number.py" afterPath="$PROJECT_DIR$/LeetCode/202. Happy Number.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,6 +23,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$560__Subarray_Sum_Equals_K.coverage" NAME="560. Subarray Sum Equals K Coverage Results" MODIFIED="1563557829517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$207__Course_Schedule.coverage" NAME="207. Course Schedule Coverage Results" MODIFIED="1564162158923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$39__Combination_Sum.coverage" NAME="39. Combination Sum Coverage Results" MODIFIED="1563125880124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$322__Coin_Change.coverage" NAME="322. Coin Change Coverage Results" MODIFIED="1567969444692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$10__Regular_Expression_Matching.coverage" NAME="10. Regular Expression Matching Coverage Results" MODIFIED="1562709811534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$35__Search_Insert_Position.coverage" NAME="35. Search Insert Position Coverage Results" MODIFIED="1493649024353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$23__Merge_k_Sorted_Lists.coverage" NAME="23. Merge k Sorted Lists Coverage Results" MODIFIED="1562948260734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -170,16 +174,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="216. Combination Sum III.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/216. Combination Sum III.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="31. Next Permutation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/31. Next Permutation.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -200,11 +194,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1186. Maximum Subarray Sum with One Deletion .py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="140. Word Break II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/140. Word Break II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="39. Combination Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="40. Combination Sum II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="322. Coin Change.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="30" column="36" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="394. Decode String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/394. Decode String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1186. Maximum Subarray Sum with One Deletion .py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/1186. Maximum Subarray Sum with One Deletion .py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="202. Happy Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/202. Happy Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -215,16 +269,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="44. Wildcard Matching.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/44. Wildcard Matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -260,9 +304,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/254. Factor Combinations.py" />
-        <option value="$PROJECT_DIR$/LeetCode/253. Meeting Rooms II.py" />
-        <option value="$PROJECT_DIR$/extra/json_to_html.py" />
         <option value="$PROJECT_DIR$/LeetCode/973. K Closest Points to Origin.py" />
         <option value="$PROJECT_DIR$/LeetCode/937. Reorder Log Files.py" />
         <option value="$PROJECT_DIR$/LeetCode/289. Game of Life.py" />
@@ -309,8 +350,11 @@
         <option value="$PROJECT_DIR$/LeetCode/44. Wildcard Matching.py" />
         <option value="$PROJECT_DIR$/LeetCode/31. Next Permutation.py" />
         <option value="$PROJECT_DIR$/LeetCode/Maximum Subarray Sum with One Deletion.py" />
-        <option value="$PROJECT_DIR$/LeetCode/1186. Maximum Subarray Sum with One Deletion .py" />
         <option value="$PROJECT_DIR$/LeetCode/1184. Distance Between Bus Stops.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1186. Maximum Subarray Sum with One Deletion .py" />
+        <option value="$PROJECT_DIR$/LeetCode/202. Happy Number.py" />
+        <option value="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
+        <option value="$PROJECT_DIR$/LeetCode/394. Decode String.py" />
       </list>
     </option>
   </component>
@@ -404,7 +448,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Maximum Subarray Sum with One Deletion">
+  <component name="RunManager" selected="Python.322. Coin Change">
     <configuration name="140. Word Break II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,7 +485,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="84. Largest Rectangle in Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="322. Coin Change" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -454,7 +498,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/84. Largest Rectangle in Histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1136,19 +1180,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.84. Largest Rectangle in Histogram" />
-      <item index="1" class="java.lang.String" itemvalue="Python.140. Word Break II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.236. Lowest Common Ancestor of a Binary Tree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.swapped_number_in_sorted_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Subarray Sum with One Deletion" />
+      <item index="0" class="java.lang.String" itemvalue="Python.140. Word Break II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.236. Lowest Common Ancestor of a Binary Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.swapped_number_in_sorted_list" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Maximum Subarray Sum with One Deletion" />
+      <item index="4" class="java.lang.String" itemvalue="Python.322. Coin Change" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Subarray Sum with One Deletion" />
-        <item index="1" class="java.lang.String" itemvalue="Python.swapped_number_in_sorted_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.236. Lowest Common Ancestor of a Binary Tree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.140. Word Break II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.84. Largest Rectangle in Histogram" />
+        <item index="0" class="java.lang.String" itemvalue="Python.322. Coin Change" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Maximum Subarray Sum with One Deletion" />
+        <item index="2" class="java.lang.String" itemvalue="Python.swapped_number_in_sorted_list" />
+        <item index="3" class="java.lang.String" itemvalue="Python.236. Lowest Common Ancestor of a Binary Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.140. Word Break II" />
       </list>
     </recent_temporary>
   </component>
@@ -1226,7 +1270,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="94225000" />
+      <workItem from="1564694504594" duration="96921000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1288,7 +1332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="465652000" />
+    <option name="totallyTimeSpent" value="468348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1311,8 +1355,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1624,6 +1668,11 @@
           <line>25</line>
           <option name="timeStamp" value="146" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/322. Coin Change.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1635,7 +1684,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="148" />
+      <option name="time" value="149" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1644,30 +1693,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/91. Decode Ways.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="72" column="35" lean-forward="false" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/88. Merge Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1892,14 +1917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/140. Word Break II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/596. Minimum Subtree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1988,22 +2005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/44. Wildcard Matching.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -2028,14 +2029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/139. Word Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1184. Distance Between Bus Stops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2046,8 +2039,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1186. Maximum Subarray Sum with One Deletion .py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/202. Happy Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/139. Word Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/140. Word Break II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/394. Decode String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
