@@ -32,7 +32,3 @@ class Solution:
 
         memo[amount] = minimum if minimum != sys.maxsize else -1
         return memo[amount]
-
-solution = Solution()
-res = solution.coinChange([1,2,5], 11)
-print(res)
