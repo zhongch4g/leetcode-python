@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -173,16 +173,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="140. Word Break II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/140. Word Break II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="39. Combination Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -233,11 +223,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="347. Top K Frequent Elements.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="347. Top K Frequent Elements.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="382">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="341. Flatten Nested List Iterator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="81" column="42" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="81" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -303,7 +303,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/380. Insert Delete GetRandom O(1).py" />
         <option value="$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py" />
         <option value="$PROJECT_DIR$/LeetCode/88. Merge Sorted Array.py" />
         <option value="$PROJECT_DIR$/LeetCode/54. Spiral Matrix.py" />
@@ -354,6 +353,7 @@
         <option value="$PROJECT_DIR$/LeetCode/377. Combination Sum IV.py" />
         <option value="$PROJECT_DIR$/LeetCode/1048. Longest String Chain.py" />
         <option value="$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py" />
+        <option value="$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py" />
       </list>
     </option>
   </component>
@@ -1269,7 +1269,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="100587000" />
+      <workItem from="1564694504594" duration="101333000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1331,7 +1331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472014000" />
+    <option name="totallyTimeSpent" value="472760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1692,14 +1692,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/128. Longest Consecutive Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2094,8 +2086,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="382">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="81" column="42" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="81" selection-end-column="42" />
           <folding />
         </state>
       </provider>
