@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/339. Nested List Weight Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/364. Nested List Weight Sum II.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -173,26 +174,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="39. Combination Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/39. Combination Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="40. Combination Sum II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="322. Coin Change.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -233,11 +214,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="341. Flatten Nested List Iterator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="341. Flatten Nested List Iterator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="81" column="42" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="81" selection-end-column="42" />
+            <state relative-caret-position="207">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="339. Nested List Weight Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/339. Nested List Weight Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="364. Nested List Weight Sum II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/364. Nested List Weight Sum II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -303,8 +304,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/771. Jewels and Stones.py" />
-        <option value="$PROJECT_DIR$/LeetCode/88. Merge Sorted Array.py" />
         <option value="$PROJECT_DIR$/LeetCode/54. Spiral Matrix.py" />
         <option value="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
         <option value="$PROJECT_DIR$/LeetCode/305. Number of Islands II.py" />
@@ -354,6 +353,8 @@
         <option value="$PROJECT_DIR$/LeetCode/1048. Longest String Chain.py" />
         <option value="$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py" />
         <option value="$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py" />
+        <option value="$PROJECT_DIR$/LeetCode/339. Nested List Weight Sum.py" />
+        <option value="$PROJECT_DIR$/LeetCode/364. Nested List Weight Sum II.py" />
       </list>
     </option>
   </component>
@@ -1269,7 +1270,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="101333000" />
+      <workItem from="1564694504594" duration="101989000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1331,7 +1332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472760000" />
+    <option name="totallyTimeSpent" value="473416000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1692,22 +1693,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/305. Number of Islands II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -2094,8 +2079,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/341. Flatten Nested List Iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="81" column="42" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="81" selection-end-column="42" />
+        <state relative-caret-position="207">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/339. Nested List Weight Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/364. Nested List Weight Sum II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
           <folding />
         </state>
       </provider>
