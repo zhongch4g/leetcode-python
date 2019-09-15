@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -243,31 +244,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="986. Interval List Intersections.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="986. Interval List Intersections.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="373">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="138. Copy List with Random Pointer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/138. Copy List with Random Pointer.py">
+      <file leaf-file-name="362. Design Hit Counter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="332. Reconstruct Itinerary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/332. Reconstruct Itinerary.py">
+      <file leaf-file-name="1189. Maximum Number of Balloons.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -303,8 +304,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lintcode/591. Connecting Graph III.py" />
-        <option value="$PROJECT_DIR$/LeetCode/305. Number of Islands II.py" />
         <option value="$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/128. Longest Consecutive Sequence.py" />
         <option value="$PROJECT_DIR$/LeetCode/212. Word Search II.py" />
@@ -354,6 +353,8 @@
         <option value="$PROJECT_DIR$/LeetCode/339. Nested List Weight Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/364. Nested List Weight Sum II.py" />
         <option value="$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py" />
+        <option value="$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py" />
       </list>
     </option>
   </component>
@@ -1269,7 +1270,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="102196000" />
+      <workItem from="1564694504594" duration="102919000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1331,7 +1332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="473623000" />
+    <option name="totallyTimeSpent" value="474346000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1692,22 +1693,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/76. Minimum Window Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/340. Longest Substring with At Most K Distinct Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/395. Longest Substring with At Least K Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -2094,8 +2079,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="373">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
