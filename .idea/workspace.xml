@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/1190. Reverse Substrings Between Each Pair of Parentheses.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -174,16 +173,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="322. Coin Change.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="377. Combination Sum IV.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/377. Combination Sum IV.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -264,8 +253,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1189. Maximum Number of Balloons.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1189. Maximum Number of Balloons.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1190. Reverse Substrings Between Each Pair of Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1190. Reverse Substrings Between Each Pair of Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -304,7 +303,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/261. Graph Valid Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/128. Longest Consecutive Sequence.py" />
         <option value="$PROJECT_DIR$/LeetCode/212. Word Search II.py" />
         <option value="$PROJECT_DIR$/LeetCode/209. Minimum Size Subarray Sum.py" />
@@ -355,6 +353,7 @@
         <option value="$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py" />
         <option value="$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py" />
         <option value="$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1190. Reverse Substrings Between Each Pair of Parentheses.py" />
       </list>
     </option>
   </component>
@@ -1270,7 +1269,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="102919000" />
+      <workItem from="1564694504594" duration="103008000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1332,7 +1331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="474346000" />
+    <option name="totallyTimeSpent" value="474435000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1693,14 +1692,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/395. Longest Substring with At Least K Repeating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/159. Longest Substring with At Most Two Distinct Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -2094,6 +2085,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1190. Reverse Substrings Between Each Pair of Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
