@@ -84,3 +84,19 @@ test = Test()
 test.test1()
 
 
+class Solution:
+    def max_distance(self, words):
+        trie = {'depth': 0}
+        for word in words:
+            cur_trie = trie
+            for c in word:
+                if c not in cur_trie:
+                    cur_trie[c] = {'depth': cur_trie['depth'] + 1}
+                cur_trie = cur_trie[c]
+
+
+
+
+words = ['1011000', '10111101', '1100000']
+solution = Solution()
+solution.max_distance(words)
