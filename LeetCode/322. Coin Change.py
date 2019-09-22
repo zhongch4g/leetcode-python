@@ -32,3 +32,23 @@ class Solution:
 
         memo[amount] = minimum if minimum != sys.maxsize else -1
         return memo[amount]
+
+"""
+dp way
+"""
+import sys
+class Solution2:
+    def coinChange(self, coins, amount: int) -> int:
+
+        coin_needs = [0] * (amount + 1)
+
+        for i in range(1, amount + 1):
+            coin_needs[i] = sys.maxsize
+            for k in range(len(coins)):
+
+                if i  >= coins[k] and coin_needs[i - coins[k]] != sys.maxsize:
+                    coin_needs[i] = min(coin_needs[i], coin_needs[i - coins[k]] + 1)
+        if coin_needs[-1] == sys.maxsize:
+            return -1
+        else:
+            return coin_needs[-1]
