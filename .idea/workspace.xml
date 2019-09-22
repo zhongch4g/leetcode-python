@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -230,18 +230,28 @@
       <file leaf-file-name="407. Trapping Rain Water II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/407. Trapping Rain Water II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="116">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="981. Time Based Key-Value Store.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py">
+      <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="981. Time Based Key-Value Store.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -287,7 +297,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/286. Walls and Gates.py" />
         <option value="$PROJECT_DIR$/LeetCode/378. Kth Smallest Element in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/LeetCode/1. Two Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/5173. Prime Arrangements.py" />
@@ -338,6 +347,7 @@
         <option value="$PROJECT_DIR$/LeetCode/4. Median of Two Sorted Arrays.py" />
         <option value="$PROJECT_DIR$/LeetCode/407. Trapping Rain Water II.py" />
         <option value="$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py" />
+        <option value="$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py" />
       </list>
     </option>
   </component>
@@ -1253,7 +1263,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="113494000" />
+      <workItem from="1564694504594" duration="114453000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1315,7 +1325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484921000" />
+    <option name="totallyTimeSpent" value="485880000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1681,14 +1691,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/1177. Can Make Palindrome from Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1162. As Far from Land as Possible .py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -2073,15 +2075,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/407. Trapping Rain Water II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="116">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
