@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/256. Paint House.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -176,26 +177,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="362. Design Hit Counter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/362. Design Hit Counter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1189. Maximum Number of Balloons.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/1189. Maximum Number of Balloons.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="distance_of_string.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/distance_of_string.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -246,11 +227,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="322. Coin Change.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="322. Coin Change.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="145">
+              <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="55. Jump Game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/55. Jump Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="256. Paint House.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/256. Paint House.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -306,7 +307,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/378. Kth Smallest Element in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/LeetCode/1. Two Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/5173. Prime Arrangements.py" />
         <option value="$PROJECT_DIR$/LeetCode/1175. Prime Arrangements.py" />
@@ -336,7 +336,6 @@
         <option value="$PROJECT_DIR$/LeetCode/394. Decode String.py" />
         <option value="$PROJECT_DIR$/LeetCode/138. Copy List with Random Pointer.py" />
         <option value="$PROJECT_DIR$/LeetCode/332. Reconstruct Itinerary.py" />
-        <option value="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
         <option value="$PROJECT_DIR$/LeetCode/377. Combination Sum IV.py" />
         <option value="$PROJECT_DIR$/LeetCode/1048. Longest String Chain.py" />
         <option value="$PROJECT_DIR$/LeetCode/347. Top K Frequent Elements.py" />
@@ -357,6 +356,8 @@
         <option value="$PROJECT_DIR$/LeetCode/407. Trapping Rain Water II.py" />
         <option value="$PROJECT_DIR$/LeetCode/981. Time Based Key-Value Store.py" />
         <option value="$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py" />
+        <option value="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
+        <option value="$PROJECT_DIR$/LeetCode/256. Paint House.py" />
       </list>
     </option>
   </component>
@@ -1272,7 +1273,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="114857000" />
+      <workItem from="1564694504594" duration="115182000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1334,7 +1335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486284000" />
+    <option name="totallyTimeSpent" value="486609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1700,22 +1701,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/1162. As Far from Land as Possible .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/42. Trapping Rain Water.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -2102,8 +2087,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/322. Coin Change.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="145">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/55. Jump Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/256. Paint House.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
