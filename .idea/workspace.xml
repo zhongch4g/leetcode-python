@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/256. Paint House.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/361. Bomb Enemy.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -177,16 +177,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="distance_of_string.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/distance_of_string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Lottery Game.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/Lottery Game.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -247,8 +237,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="256. Paint House.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="256. Paint House.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/256. Paint House.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="361. Bomb Enemy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/361. Bomb Enemy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -307,7 +307,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/1. Two Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/5173. Prime Arrangements.py" />
         <option value="$PROJECT_DIR$/LeetCode/1175. Prime Arrangements.py" />
         <option value="$PROJECT_DIR$/LeetCode/1176. Diet Plan Performance.py" />
@@ -358,6 +357,7 @@
         <option value="$PROJECT_DIR$/LeetCode/410. Split Array Largest Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/322. Coin Change.py" />
         <option value="$PROJECT_DIR$/LeetCode/256. Paint House.py" />
+        <option value="$PROJECT_DIR$/LeetCode/361. Bomb Enemy.py" />
       </list>
     </option>
   </component>
@@ -396,11 +396,6 @@
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
-              <item name="goog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
@@ -1273,7 +1268,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="115182000" />
+      <workItem from="1564694504594" duration="115672000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1335,7 +1330,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486609000" />
+    <option name="totallyTimeSpent" value="487099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1701,14 +1696,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/295. Find Median from Data Stream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/84. Largest Rectangle in Histogram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -2102,6 +2089,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/256. Paint House.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/361. Bomb Enemy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
