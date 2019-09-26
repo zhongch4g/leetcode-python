@@ -53,6 +53,10 @@ print("tree longest path: ", res)
 ##################################################################################
 """
 有向无环图
+Reference:
+https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/
+https://www.geeksforgeeks.org/topological-sorting/
+https://www.geeksforgeeks.org/graph-and-its-representations/
 """
 import sys
 class AdjListNode:
