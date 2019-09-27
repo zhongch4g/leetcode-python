@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -147,6 +147,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$640__One_Edit_Distance.coverage" NAME="640. One Edit Distance Coverage Results" MODIFIED="1564434670544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$647__Find_All_Anagrams_in_a_String.coverage" NAME="647. Find All Anagrams in a String Coverage Results" MODIFIED="1564698515285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$42__Trapping_Rain_Water.coverage" NAME="42. Trapping Rain Water Coverage Results" MODIFIED="1563130619074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$1057__Campus_Bikes.coverage" NAME="1057. Campus Bikes Coverage Results" MODIFIED="1569547803185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goog/phone_interview" />
     <SUITE FILE_PATH="coverage/leetcode_python$627__Longest_Palindrome.coverage" NAME="627. Longest Palindrome Coverage Results" MODIFIED="1563909410153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$1144__Decrease_Elements_To_Make_Array_Zigzag.coverage" NAME="1144. Decrease Elements To Make Array Zigzag Coverage Results" MODIFIED="1564895432008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$253__Meeting_Rooms_II.coverage" NAME="253. Meeting Rooms II Coverage Results" MODIFIED="1566279550406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -250,11 +251,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1057. Campus Bikes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1057. Campus Bikes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="77" column="85" lean-forward="false" selection-start-line="77" selection-start-column="85" selection-end-line="77" selection-end-column="85" />
+            <state relative-caret-position="342">
+              <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
               <folding>
                 <element signature="e#277#287#0" expanded="true" />
               </folding>
@@ -262,21 +263,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="586. Sqrt(x) II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lintcode/586. Sqrt(x) II.py">
+      <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-260">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="215. Kth Largest Element in an Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/215. Kth Largest Element in an Array.py">
+      <file leaf-file-name="1066. Campus Bikes II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-601">
-              <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -312,8 +313,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lintcode/596. Minimum Subtree.py" />
-        <option value="$PROJECT_DIR$/LeetCode/257. Binary Tree Paths.py" />
         <option value="$PROJECT_DIR$/LeetCode/236. Lowest Common Ancestor of a Binary Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/173. Binary Search Tree Iterator.py" />
         <option value="$PROJECT_DIR$/LeetCode/285. Inorder Successor in BST.py" />
@@ -363,6 +362,8 @@
         <option value="$PROJECT_DIR$/LeetCode/354. Russian Doll Envelopes.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/watering_tree.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py" />
       </list>
     </option>
   </component>
@@ -462,7 +463,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.watering_tree">
+  <component name="RunManager" selected="Python.1057. Campus Bikes">
+    <configuration name="1057. Campus Bikes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goog/phone_interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="4. Median of Two Sorted Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -495,24 +514,6 @@
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/Lottery Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Minimum Domino Rotations For Equal Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goog" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/Minimum Domino Rotations For Equal Row.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1194,19 +1195,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Minimum Domino Rotations For Equal Row" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Lottery Game" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4. Median of Two Sorted Arrays" />
-      <item index="3" class="java.lang.String" itemvalue="Python.minimum_depth_sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.watering_tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Lottery Game" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4. Median of Two Sorted Arrays" />
+      <item index="2" class="java.lang.String" itemvalue="Python.minimum_depth_sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.watering_tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.watering_tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.minimum_depth_sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4. Median of Two Sorted Arrays" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Lottery Game" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Minimum Domino Rotations For Equal Row" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.watering_tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.minimum_depth_sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4. Median of Two Sorted Arrays" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lottery Game" />
       </list>
     </recent_temporary>
   </component>
@@ -1284,7 +1285,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="127198000" />
+      <workItem from="1564694504594" duration="128740000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1346,7 +1347,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="498625000" />
+    <option name="totallyTimeSpent" value="500167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1712,22 +1713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/270. Closest Binary Search Tree Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/44. Wildcard Matching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/216. Combination Sum III.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
@@ -2114,11 +2099,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="77" column="85" lean-forward="false" selection-start-line="77" selection-start-column="85" selection-end-line="77" selection-end-column="85" />
+        <state relative-caret-position="342">
+          <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
           <folding>
             <element signature="e#277#287#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
