@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -201,16 +199,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="307. Range Sum Query - Mutable.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/307. Range Sum Query - Mutable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="300. Longest Increasing Subsequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/300. Longest Increasing Subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -266,18 +254,28 @@
       <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1066. Campus Bikes II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
+      <file leaf-file-name="132. Palindrome Partitioning II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1066. Campus Bikes II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -313,7 +311,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/236. Lowest Common Ancestor of a Binary Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/173. Binary Search Tree Iterator.py" />
         <option value="$PROJECT_DIR$/LeetCode/285. Inorder Successor in BST.py" />
         <option value="$PROJECT_DIR$/extra/swapped_number_in_sorted_list.py" />
@@ -364,6 +361,7 @@
         <option value="$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py" />
       </list>
     </option>
   </component>
@@ -1285,7 +1283,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="128740000" />
+      <workItem from="1564694504594" duration="128920000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1347,7 +1345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500167000" />
+    <option name="totallyTimeSpent" value="500347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1713,14 +1711,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/216. Combination Sum III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/31. Next Permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -2107,15 +2097,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="-102">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
