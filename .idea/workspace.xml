@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/Chocolate Sweetness.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" afterPath="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -199,16 +201,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="300. Longest Increasing Subsequence.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/300. Longest Increasing Subsequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="354. Russian Doll Envelopes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/354. Russian Doll Envelopes.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -254,8 +246,18 @@
       <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="449">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chocolate Sweetness.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/Chocolate Sweetness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -311,7 +313,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/173. Binary Search Tree Iterator.py" />
         <option value="$PROJECT_DIR$/LeetCode/285. Inorder Successor in BST.py" />
         <option value="$PROJECT_DIR$/extra/swapped_number_in_sorted_list.py" />
         <option value="$PROJECT_DIR$/LeetCode/99. Recover Binary Search Tree.py" />
@@ -359,9 +360,10 @@
         <option value="$PROJECT_DIR$/LeetCode/354. Russian Doll Envelopes.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/watering_tree.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/1057. Campus Bikes.py" />
-        <option value="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py" />
         <option value="$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/Chocolate Sweetness.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py" />
       </list>
     </option>
   </component>
@@ -1283,7 +1285,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="129067000" />
+      <workItem from="1564694504594" duration="129444000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1345,7 +1347,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500494000" />
+    <option name="totallyTimeSpent" value="500871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1711,14 +1713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/31. Next Permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1184. Distance Between Bus Stops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2113,10 +2107,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/Chocolate Sweetness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="449">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>

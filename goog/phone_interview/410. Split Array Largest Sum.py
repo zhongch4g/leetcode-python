@@ -44,3 +44,44 @@ class Solution:
                     #         s += nums[k - 1]
         return dp[m][n]
 
+
+# greedy
+"""
+如果我们可以找到一种分割方法来确保最大的子数组和不会超过一个值x，
+那么我们也可以找到一种分割方法来确保最大的子数组和不会超过任何大于x的值y。
+"""
+import sys
+class Solution:
+    def splitArray(self, nums, m: int) -> int:
+        left = max(nums)
+        right = sum(nums)
+
+        while left + 1 < right:
+            # print(left, right, (left + right) >> 1)
+            mid = (left + right) >> 1
+            if self.is_valid_partition(nums, mid, m):
+                # if mid can let k(k <= m) parts sum smaller than mid, means mid is too large
+                right = mid
+            else:
+                left = mid
+        # must be [False, False, ..., False, True, ..., True ]
+        if self.is_valid_partition(nums, left, m):
+            return left
+        else:
+            return right
+
+
+    def is_valid_partition(self, nums, n, m):
+        cnt = 1
+        cur_sum = 0
+        for num in nums:
+            cur_sum += num
+            if cur_sum > n:
+                cnt += 1
+                cur_sum = num
+
+        if cnt <= m:
+            return True
+        else:
+            return False
+
