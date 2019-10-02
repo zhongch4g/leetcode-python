@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -251,7 +251,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -261,11 +261,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="132. Palindrome Partitioning II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="132. Palindrome Partitioning II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="779">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1283,7 +1283,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="128920000" />
+      <workItem from="1564694504594" duration="129067000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1345,7 +1345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500347000" />
+    <option name="totallyTimeSpent" value="500494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2105,15 +2105,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="779">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
