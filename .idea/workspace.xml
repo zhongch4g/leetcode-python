@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/1088. Confusing Number II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/Arithmetic progression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/Remove Extra Edge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/synonymous_queries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/backspace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/objects_storage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -77,6 +75,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$47__Permutations_II.coverage" NAME="47. Permutations II Coverage Results" MODIFIED="1563145623645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$120__Word_Ladder.coverage" NAME="120. Word Ladder Coverage Results" MODIFIED="1565320196113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$613__High_Five.coverage" NAME="613. High Five Coverage Results" MODIFIED="1563933440577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$backspace.coverage" NAME="backspace Coverage Results" MODIFIED="1570304532865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goog/phone_interview" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$121__Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121. Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1493466555397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$3__Longest_Substring_Without_Repeating_Characters.coverage" NAME="3. Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1565581718368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$236__Lowest_Common_Ancestor_of_a_Binary_Tree.coverage" NAME="236. Lowest Common Ancestor of a Binary Tree Coverage Results" MODIFIED="1567459649383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -246,11 +245,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="synonymous_queries.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="synonymous_queries.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/synonymous_queries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="objects_storage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/objects_storage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backspace.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/backspace.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -261,26 +280,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="132. Palindrome Partitioning II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/132. Palindrome Partitioning II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1066. Campus Bikes II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/1066. Campus Bikes II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -316,8 +315,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/216. Combination Sum III.py" />
-        <option value="$PROJECT_DIR$/LeetCode/44. Wildcard Matching.py" />
         <option value="$PROJECT_DIR$/LeetCode/31. Next Permutation.py" />
         <option value="$PROJECT_DIR$/LeetCode/Maximum Subarray Sum with One Deletion.py" />
         <option value="$PROJECT_DIR$/LeetCode/1184. Distance Between Bus Stops.py" />
@@ -367,6 +364,8 @@
         <option value="$PROJECT_DIR$/goog/phone_interview/1088. Confusing Number II.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/Arithmetic progression.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/synonymous_queries.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/objects_storage.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/backspace.py" />
       </list>
     </option>
   </component>
@@ -422,6 +421,11 @@
               <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="Lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -466,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Arithmetic progression">
+  <component name="RunManager" selected="Python.backspace">
     <configuration name="1057. Campus Bikes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1161,6 +1165,24 @@
       <envs />
       <method />
     </configuration>
+    <configuration name="backspace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goog/phone_interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode-in-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/phone_interview/backspace.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="maximum_path_in_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1179,38 +1201,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="watering_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/goog/phone_interview" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode-in-python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/phone_interview/watering_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.watering_tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
+      <item index="4" class="java.lang.String" itemvalue="Python.backspace" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
-        <item index="2" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.watering_tree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.backspace" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
+        <item index="3" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1057. Campus Bikes" />
       </list>
     </recent_temporary>
   </component>
@@ -1288,7 +1292,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="136639000" />
+      <workItem from="1564694504594" duration="138888000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1350,7 +1354,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508066000" />
+    <option name="totallyTimeSpent" value="510315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1373,8 +1377,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1701,6 +1705,11 @@
           <line>51</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goog/phone_interview/backspace.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1712,7 +1721,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="154" />
+      <option name="time" value="156" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1721,22 +1730,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/394. Decode String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/138. Copy List with Random Pointer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -2046,7 +2039,7 @@
         <state relative-caret-position="342">
           <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
           <folding>
-            <element signature="e#277#287#0" expanded="true" />
+            <element signature="e#277#287#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2125,8 +2118,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goog/phone_interview/synonymous_queries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/objects_storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/backspace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
           <folding />
         </state>
       </provider>
