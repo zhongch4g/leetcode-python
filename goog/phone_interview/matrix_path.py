@@ -138,6 +138,7 @@ class Solution2:
             elif mat[i][j] == "TR":
                 i -= 1
                 j += 1
+                path.append((i, j))
         path = reversed(path)
         print(list(path))
         return path
