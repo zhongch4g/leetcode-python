@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e2c5bc-821b-43db-97dd-a3f6d5c52ed4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/123. Best Time to Buy and Sell Stock III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode-in-python.iws" />
@@ -111,6 +113,7 @@
     <SUITE FILE_PATH="coverage/leetcode_python$distance_of_string.coverage" NAME="distance_of_string Coverage Results" MODIFIED="1568849979016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goog" />
     <SUITE FILE_PATH="coverage/LeetCode-in-python$504__Base_7.coverage" NAME="504. Base 7 Coverage Results" MODIFIED="1492669676944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$5053__As_Far_from_Land_as_Possible.coverage" NAME="5053. As Far from Land as Possible Coverage Results" MODIFIED="1566101992881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/leetcode_python$stream_find_word_index.coverage" NAME="stream_find_word_index Coverage Results" MODIFIED="1570480337500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goog/phone_interview" />
     <SUITE FILE_PATH="coverage/leetcode_python$184__Largest_Number.coverage" NAME="184. Largest Number Coverage Results" MODIFIED="1564122497077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lintcode" />
     <SUITE FILE_PATH="coverage/leetcode_python$157__Read_N_Characters_Given_Read4.coverage" NAME="157. Read N Characters Given Read4 Coverage Results" MODIFIED="1565386183472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/leetcode_python$15__3Sum.coverage" NAME="15. 3Sum Coverage Results" MODIFIED="1562811513039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -184,36 +187,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="410. Split Array Largest Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/410. Split Array Largest Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maximum_path_in_matrix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/maximum_path_in_matrix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="247. Strobogrammatic Number II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goog/phone_interview/247. Strobogrammatic Number II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Remove Extra Edge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/Remove Extra Edge.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -274,11 +247,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="matrix_path.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="matrix_path.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goog/phone_interview/matrix_path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="474">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="123. Best Time to Buy and Sell Stock III.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/123. Best Time to Buy and Sell Stock III.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="27" column="83" lean-forward="true" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="300. Longest Increasing Subsequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/300. Longest Increasing Subsequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stream_find_word_index.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -314,8 +317,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/Maximum Subarray Sum with One Deletion.py" />
-        <option value="$PROJECT_DIR$/LeetCode/1184. Distance Between Bus Stops.py" />
         <option value="$PROJECT_DIR$/LeetCode/1186. Maximum Subarray Sum with One Deletion .py" />
         <option value="$PROJECT_DIR$/LeetCode/202. Happy Number.py" />
         <option value="$PROJECT_DIR$/LeetCode/394. Decode String.py" />
@@ -365,6 +366,8 @@
         <option value="$PROJECT_DIR$/goog/phone_interview/objects_storage.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/backspace.py" />
         <option value="$PROJECT_DIR$/goog/phone_interview/matrix_path.py" />
+        <option value="$PROJECT_DIR$/LeetCode/123. Best Time to Buy and Sell Stock III.py" />
+        <option value="$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py" />
       </list>
     </option>
   </component>
@@ -469,7 +472,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix_path">
+  <component name="RunManager" selected="Python.stream_find_word_index">
     <configuration name="Arithmetic progression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1182,7 +1185,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="maximum_path_in_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stream_find_word_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1195,25 +1198,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode-in-python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/phone_interview/maximum_path_in_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
-      <item index="3" class="java.lang.String" itemvalue="Python.backspace" />
-      <item index="4" class="java.lang.String" itemvalue="Python.matrix_path" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.backspace" />
+      <item index="3" class="java.lang.String" itemvalue="Python.matrix_path" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stream_find_word_index" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.matrix_path" />
-        <item index="1" class="java.lang.String" itemvalue="Python.backspace" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
-        <item index="4" class="java.lang.String" itemvalue="Python.maximum_path_in_matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stream_find_word_index" />
+        <item index="1" class="java.lang.String" itemvalue="Python.matrix_path" />
+        <item index="2" class="java.lang.String" itemvalue="Python.backspace" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Arithmetic progression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Remove Extra Edge" />
       </list>
     </recent_temporary>
   </component>
@@ -1291,7 +1294,7 @@
       <workItem from="1562601050122" duration="183167000" />
       <workItem from="1564179899454" duration="20344000" />
       <workItem from="1564363248170" duration="15067000" />
-      <workItem from="1564694504594" duration="144284000" />
+      <workItem from="1564694504594" duration="151188000" />
     </task>
     <task id="LOCAL-00001" summary="update leetcode 455 &amp; 557&#10;date 2017/4/13">
       <created>1492085810042</created>
@@ -1353,7 +1356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="515711000" />
+    <option name="totallyTimeSpent" value="522615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1376,8 +1379,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.5493562" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736155" sideWeight="0.52646637" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304716" sideWeight="0.45064378" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2382104" sideWeight="0.4241774" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1709,6 +1712,16 @@
           <line>34</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1720,7 +1733,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="156" />
+      <option name="time" value="158" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1729,22 +1742,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/332. Reconstruct Itinerary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/377. Combination Sum IV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1048. Longest String Chain.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -1977,14 +1974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/300. Longest Increasing Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goog/phone_interview/points_include.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -2133,8 +2122,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goog/phone_interview/matrix_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="474">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/123. Best Time to Buy and Sell Stock III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="27" column="83" lean-forward="true" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/300. Longest Increasing Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goog/phone_interview/stream_find_word_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
