@@ -6,7 +6,17 @@
 # @File    : stream_find_word_index.py
 # @Software: IntelliJ IDEA
 
+"""
+Stream: backiuwcatbeforewerehpqojf
+Input: ["back", "before", "cat", fore", "were", "for"]
+Output: [0, 10, 7, 12, 16, 12]
+Generator: char getNextChar();
 
+给一个random stream，只能用getNextChar();获取下一个char，
+给一个list of input words，找每个word在stream中出现的位置（出现位置）
+假设stream够长，即使是‍‍‌‌‍‌‌‌‌‍‍‍‌‍‍‌‍‌‍random，也一定会出现每个word
+
+"""
 class TrieNode:
     def __init__(self):
         self.children = {}
@@ -74,7 +84,6 @@ class Solution:
                 list_of_trie_node_next.append(tn.children[char])
 
             # add root
-            # if char in node.children:
             list_of_trie_node_next.append(node)
 
             idx += 1
