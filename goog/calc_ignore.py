@@ -13,13 +13,14 @@ class CalcIgnore:
             base = base * (1 - val * 0.01)
         return 1 - base
 
+
+# main = [20]  link = [15]  super = [18]
 base = [68]
 main = [20]
 assistant = [30, 30]
-link = [15]
 combo = [15]
-super = [18]
-value_list = base + main + assistant + link + combo + super
+
+value_list = base + main + assistant + combo
 obj = CalcIgnore()
 res = obj.calulate(value_list)
 print(res)
