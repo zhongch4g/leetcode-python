@@ -20,7 +20,9 @@ main = [20]
 assistant = [30, 30]
 combo = [15]
 
-value_list = base + main + assistant + combo
+lack = [30]
+
+value_list = base + main + assistant + combo + lack
 obj = CalcIgnore()
 res = obj.calulate(value_list)
 print(res)
