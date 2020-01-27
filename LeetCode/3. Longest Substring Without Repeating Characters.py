@@ -24,7 +24,7 @@ class Solution:
 
 import sys
 class Solution2:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+    def lengthOfLongestSubstring(self, s):
         length = len(s)
         counter = {c: 0 for c in s}
         maxlen = - sys.maxsize - 1
